@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 katz_deli = []
 
 def line(katz_deli)
@@ -27,3 +28,9 @@ def now_serving(katz_deli)
     katz_deli.shift
   end
 end
+=======
+def line(deli)
+  puts
+end
+  
+>>>>>>> 662291a831e57400744c0ce21aed63f09a46ad93
